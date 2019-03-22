@@ -1,0 +1,1914 @@
+
+@font-face {
+                          font-family: "ProximaNova-Medium";
+                          src: url('../fonts/.25136.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Bold";
+                          src: url('../fonts/.139.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Regular";
+                          src: url('../fonts/.175.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Semibold";
+                          src: url('../fonts/.173.otf') format("opentype");
+                        }
+                        
+.bp2-homedarkmodemobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1874px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(73, 73, 73, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-anima-animate-enter {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp2-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp2-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp2-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp2-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp2-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp2-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp2-anima-animate-enter1 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp2-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp2-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp2-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp2-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp2-anima-animate-enter2 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp2-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp2-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp2-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp2-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp2-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp2-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp2-homedarkmodemobile .bp2-footermobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1774px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : -340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-links .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-links .bp2-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-links .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-homedarkmodemobile .bp2-footermobile .bp2-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 24.0px;
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1315px;
+  height              : 359px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject .bp2-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 339px;
+  height              : auto;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject .bp2-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject .bp2-conversationaluide {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject .bp2-voicedesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 176px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp2-homedarkmodemobile .bp2-voicedesignproject .bp2-voicecoverimagemobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 193px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-commonground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 906px;
+  height              : 359px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-commonground .bp2-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 339px;
+  height              : auto;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-commonground .bp2-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-commonground .bp2-designerandfronten {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : auto;
+  width               : 262px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp2-homedarkmodemobile .bp2-commonground .bp2-commongroud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp2-homedarkmodemobile .bp2-commonground .bp2-commongroundcoverimagemobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 193px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-prudential {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 497px;
+  height              : 359px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-prudential .bp2-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 339px;
+  height              : auto;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-prudential .bp2-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp2-homedarkmodemobile .bp2-prudential .bp2-titlerole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : auto;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp2-homedarkmodemobile .bp2-prudential .bp2-projectname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp2-homedarkmodemobile .bp2-prudential .bp2-prudentialcoverimagemobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 193px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 446px;
+  height              : 1px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-colorschemebuttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 412px;
+  height              : 18px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-colorschemebuttons .bp2-darkmode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-colorschemebuttons .bp2-lightmode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 272px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.19px;
+  line-height         : 34.0px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span1 {
+  
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span2 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span3 {
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span4 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span5 {
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span6 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-aboutme .bp2-hithereiamrajiv .bp2-span7 {
+  letter-spacing      : -0.18px;
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-siteheader .bp2-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-siteheader .bp2-rajivlogo .bp2-background1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-siteheader .bp2-rajivlogo .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-siteheader .bp2-rajivlogo .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-reachoutcta .bp2-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-homedarkmodemobile .bp2-siteheadermobiledarkmode .bp2-reachoutcta .bp2-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.19px;
+  line-height         : 15.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp1-homedarkmode {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1852px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(73, 73, 73, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-anima-animate-enter {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp1-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp1-anima-animate-enter1 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp1-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp1-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp1-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp1-anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp1-anima-animate-enter2 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp1-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter2-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.bp1-homedarkmode .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1720px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1668px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-footer .bp1-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-footer .bp1-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2053px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-footer .bp1-links .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-homedarkmode .bp1-footer .bp1-links .bp1-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-homedarkmode .bp1-footer .bp1-links .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-homedarkmode .bp1-footer .bp1-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2095px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.18px;
+  line-height         : 27.0px;
+}
+.bp1-homedarkmode .bp1-projectcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1320px;
+  height              : 250px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-checkitout:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : auto;
+  width               : 393px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-titlerole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-projectname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp1-homedarkmode .bp1-projectcard .bp1-voicecoverimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 250px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectcard1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1010px;
+  height              : 250px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-checkitout:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : auto;
+  width               : 393px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-titlerole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-projectname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp1-homedarkmode .bp1-projectcard1 .bp1-commongroundcoverimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 250px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectcard2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 700px;
+  height              : 250px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-checkitout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.12px;
+  line-height         : 20.0px;
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-checkitout:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : auto;
+  width               : 393px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-titlerole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 24.0px;
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-prudential {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 27.0px;
+}
+.bp1-homedarkmode .bp1-projectcard2 .bp1-prudentialcoverimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 250px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-projectstitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 603px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 458px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-homedarkmode .bp1-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 511px;
+  height              : 1px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 359px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-colorschemebuttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 445px;
+  height              : 30px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 473px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-colorschemebuttons .bp1-darkmode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 29px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-colorschemebuttons .bp1-lightmode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : 160px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.22px;
+  line-height         : 40.0px;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span1 {
+  
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span2 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span3 {
+  
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span4 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span5 {
+  
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span6 {
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-hithereiamrajiv .bp1-span7 {
+  
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-airbnblink {
+  background-color    : rgba(254, 89, 95, 0.4);
+  top                 : 100px;
+  height              : 22px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 419px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-airbnblink:hover {
+  transform           : translate(0, -11px);
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-prudentiallink {
+  background-color    : rgba(100, 206, 215, 0.4);
+  top                 : 60px;
+  height              : 22px;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-prudentiallink:hover {
+  transform           : translate(0, -11px);
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-ucsdlink {
+  background-color    : rgba(249, 226, 129, 0.4);
+  top                 : 20px;
+  height              : 22px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 589px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-homedarkmode .bp1-aboutme .bp1-ucsdlink:hover {
+  transform           : translate(0, -11px);
+}
+.bp1-homedarkmode .bp1-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 64px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-siteheader .bp1-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-homedarkmode .bp1-siteheader .bp1-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-homedarkmode .bp1-siteheader .bp1-reachoutcta .bp1-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-homedarkmode .bp1-siteheader .bp1-reachoutcta .bp1-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 20.0px;
+}
+.bp1-homedarkmode .bp1-siteheader .bp1-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 1023px) {
+  .bp2-homedarkmodemobile {
+    display             : block;
+  }
+  .bp1-homedarkmode {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .bp2-homedarkmodemobile {
+    display             : none;
+  }
+  .bp1-homedarkmode {
+    display             : block;
+  }
+}

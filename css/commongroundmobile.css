@@ -1,0 +1,2741 @@
+
+@font-face {
+                          font-family: "ProximaNova-Medium";
+                          src: url('../fonts/.25136.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Bold";
+                          src: url('../fonts/.139.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Regular";
+                          src: url('../fonts/.175.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Semibold";
+                          src: url('../fonts/.173.otf') format("opentype");
+                        }
+                        
+.bp1-commongrounddarkmode {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 11494px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(73, 73, 73, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-commongrounddarkmode .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11362px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1667px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2053px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-links .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-links .bp1-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-links .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-commongrounddarkmode .bp1-footer .bp1-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2095px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.18px;
+  line-height         : 27.0px;
+}
+.bp1-commongrounddarkmode .bp1-endingtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11214px;
+  height              : auto;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-reflection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9313px;
+  height              : 1801px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-commongroundposter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1223px;
+  height              : 578px;
+  width               : 462px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-teampicture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : 347px;
+  width               : 462px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 816px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 816px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 679px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro .bp1-sectioncontent .bp1-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 679px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-reflection .bp1-reflectionintro .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-commongrounddarkmode .bp1-finaldesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8060px;
+  height              : 1254px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 312px;
+  height              : 942px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 263px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 263px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 126px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro .bp1-sectioncontent .bp1-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-finaldesign .bp1-finaldesignintro .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5294px;
+  height              : 2766px;
+  width               : 705px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2009px;
+  height              : 757px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 565px;
+  height              : 192px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span1 {
+  
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-images {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 481px;
+  width               : 577px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting3 .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1406px;
+  height              : 553px;
+  width               : 705px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 551px;
+  height              : 2px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 216px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span1 {
+  
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-images {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 202px;
+  width               : 705px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting2 .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 405px;
+  height              : 952px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 950px;
+  height              : 2px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 565px;
+  height              : 336px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span1 {
+  
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-sectioncontent .bp1-sectioncontent1 .bp1-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-images {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 481px;
+  width               : 580px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertesting1 .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 355px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 355px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 218px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro .bp1-sectioncontent .bp1-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 218px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-usertesting .bp1-usertestingintro .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4005px;
+  height              : 1259px;
+  width               : 875px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-createnewwireframe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 836px;
+  height              : 423px;
+  width               : 875px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-homewireframe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 317px;
+  height              : 444px;
+  width               : 875px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 287px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 287px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 150px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro .bp1-sectioncontent .bp1-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 150px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-wireframingsection .bp1-wireframingintro .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2829px;
+  height              : 1176px;
+  width               : 869px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 744px;
+  height              : 432px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 122px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending .bp1-sectioncontent .bp1-span1 {
+  
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending .bp1-sectioncontent .bp1-span2 {
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending .bp1-sectioncontent .bp1-span3 {
+  
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingending .bp1-sectioncontent .bp1-span4 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-advisorbasedvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 413px;
+  height              : 299px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-advisorbasedvideo .bp1-advisorvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 262px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-advisorbasedvideo .bp1-advisorvideo video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-advisorbasedvideo .bp1-advisorvideo video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-advisorbasedvideo .bp1-advisorvideosubtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 277px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-logbasedvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 413px;
+  height              : 299px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-logbasedvideo .bp1-logvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 262px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-logbasedvideo .bp1-logvideo video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-logbasedvideo .bp1-logvideo video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-logbasedvideo .bp1-logvideosubtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 277px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 383px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 122px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 383px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 246px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro .bp1-sectioncontent .bp1-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 246px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro .bp1-sectioncontent .bp1-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp1-commongrounddarkmode .bp1-paperprototypingsection .bp1-paperprototypingintro .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp1-commongrounddarkmode .bp1-storyboarding {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1609px;
+  height              : 1220px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-backgroundsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 943px;
+  height              : 666px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-projectheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : 692px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 64px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-siteheader .bp1-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-commongrounddarkmode .bp1-siteheader .bp1-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-commongrounddarkmode .bp1-siteheader .bp1-reachoutcta .bp1-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-commongrounddarkmode .bp1-siteheader .bp1-reachoutcta .bp1-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 20.0px;
+}
+.bp1-commongrounddarkmode .bp1-siteheader .bp1-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-commongroundmobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 8912px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-commongroundmobile .bp2-footermobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8812px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : -340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-links .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-links .bp2-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-links .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-footermobile .bp2-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 24.0px;
+}
+.bp2-commongroundmobile .bp2-storyboardingsectionbackground {
+  background-color    : rgba(247, 248, 250, 1.0);
+  top                 : 1162px;
+  height              : 1198px;
+  width               : 1501px;
+  position            : absolute;
+  margin              : 0;
+  left                : -590px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-wireframingsectionbackground {
+  background-color    : rgba(247, 248, 250, 1.0);
+  top                 : 3743px;
+  height              : 613px;
+  width               : 1501px;
+  position            : absolute;
+  margin              : 0;
+  left                : -590px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-highfidelitysectionbackground {
+  background-color    : rgba(247, 248, 250, 1.0);
+  top                 : 6565px;
+  height              : 2247px;
+  width               : 1501px;
+  position            : absolute;
+  margin              : 0;
+  left                : -590px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-reflectionsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7163px;
+  height              : 1548px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-reflectionsection .bp2-commongroundposter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1160px;
+  height              : 388px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-reflectionsection .bp2-teampicture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 233px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-reflectionsection .bp2-introtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 867px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-reflectionsection .bp2-introtext .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-reflectionsection .bp2-introtext .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-highfidelitysection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6590px;
+  height              : 523px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-highfidelitysection .bp2-finaldesigncommonground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 188px;
+  height              : 335px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-highfidelitysection .bp2-introtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 167px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-highfidelitysection .bp2-introtext .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-highfidelitysection .bp2-introtext .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4381px;
+  height              : 2159px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1588px;
+  height              : 571px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 331px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 .bp2-text .bp2-span1 {
+  
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 .bp2-text .bp2-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 .bp2-spashscreenimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 258px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue3 .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1127px;
+  height              : 431px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-text .bp2-span1 {
+  
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-text .bp2-span2 {
+  font-family         : "ProximaNova-Regular", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-text .bp2-span3 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-moodlogbuttonimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 88px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue2 .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 337px;
+  height              : 760px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 320px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 .bp2-text .bp2-span1 {
+  
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 .bp2-text .bp2-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 .bp2-taskswitcherimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 257px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-issue1 .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-introtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 307px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-introtext .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-usertestingsection .bp2-introtext .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-wireframingsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3768px;
+  height              : 562px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-wireframingsection .bp2-createnewwireframe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 413px;
+  height              : 149px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-wireframingsection .bp2-homewireframe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 156px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-wireframingsection .bp2-introtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 207px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-wireframingsection .bp2-introtext .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-wireframingsection .bp2-introtext .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2385px;
+  height              : 1333px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1113px;
+  height              : 220px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedtext .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 885px;
+  height              : 208px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedvideo .bp2-advisorvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 181px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedvideo .bp2-advisorvideo video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedvideo .bp2-advisorvideo video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-advisorbasedvideo .bp2-advisorvideosubtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 555px;
+  height              : 300px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedtext .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 327px;
+  height              : 208px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedvideo .bp2-logvideo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 181px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedvideo .bp2-logvideo video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedvideo .bp2-logvideo video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-logbasedvideo .bp2-logvideosubtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-introtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-paperprototyping .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1187px;
+  height              : 1148px;
+  width               : 311px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : 660px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span1 {
+  text-align          : justify;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span3 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span4 {
+  
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span5 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-storyboardimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 206px;
+  width               : 311px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-bodytextmobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-bodytextmobile .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-storyboardingsection .bp2-bodytextmobile .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-backgroundsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 521px;
+  height              : 616px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-problemstatement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : 128px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-problemstatement .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-problemstatement .bp2-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 2px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-problemstatement .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(98, 200, 160, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-bodytextmobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 467px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-bodytextmobile .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-backgroundsection .bp2-bodytextmobile .bp2-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp2-commongroundmobile .bp2-projectheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 301px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-projectheader .bp2-bannerimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : 207px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-projectheader .bp2-projectdescription {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp2-commongroundmobile .bp2-projectheader .bp2-projecttitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 37.0px;
+}
+.bp2-commongroundmobile .bp2-siteheadermobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-siteheader .bp2-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-siteheader .bp2-rajivlogo .bp2-background1 {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-siteheader .bp2-rajivlogo .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-siteheader .bp2-rajivlogo .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-reachoutcta .bp2-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-commongroundmobile .bp2-siteheadermobile .bp2-reachoutcta .bp2-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.19px;
+  line-height         : 15.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 1023px) {
+  .bp2-commongroundmobile {
+    display             : block;
+  }
+  .bp1-commongrounddarkmode {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .bp2-commongroundmobile {
+    display             : none;
+  }
+  .bp1-commongrounddarkmode {
+    display             : block;
+  }
+}

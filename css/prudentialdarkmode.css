@@ -1,0 +1,3394 @@
+
+@font-face {
+                          font-family: "ProximaNova-Medium";
+                          src: url('../fonts/.25136.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Bold";
+                          src: url('../fonts/.139.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Regular";
+                          src: url('../fonts/.175.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "ProximaNova-Semibold";
+                          src: url('../fonts/.173.otf') format("opentype");
+                        }
+                        
+.bp1-prudentialdarkmodemobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 10098px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(73, 73, 73, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-prudentialdarkmodemobile .bp1-highfidelitysection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9240px;
+  height              : 709px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-highfidelitysection .bp1-highfidelityimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 485px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-highfidelitysection .bp1-intro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 207px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-highfidelitysection .bp1-intro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-highfidelitysection .bp1-intro .bp1-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6282px;
+  height              : 2908px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1499px;
+  height              : 1409px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping .bp1-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1129px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping .bp1-bodytext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 909px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping .bp1-paperprototypeimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 627px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping .bp1-bodytext2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-paperprototyping .bp1-sectionheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 1424px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-proposedia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1250px;
+  height              : 174px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 550px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-originalia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 363px;
+  height              : 167px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-sectioncontent .bp1-span1 {
+  
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-sectioncontent .bp1-span2 {
+  letter-spacing      : -0.15px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-informationarchitecture .bp1-sectionheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-ideationsection .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4886px;
+  height              : 1346px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-headspace {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 724px;
+  height              : 622px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-headspace .bp1-headspacetext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 363px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-headspace .bp1-headspaceimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 302px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-headspace .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 647px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 363px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 16.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span1 {
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span2 {
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span3 {
+  font-size           : 16.0px;
+  letter-spacing      : -0.17px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span4 {
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  letter-spacing      : -0.17px;
+  line-height         : 18.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span5 {
+  font-size           : 16.0px;
+  letter-spacing      : -0.17px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademytext .bp1-span6 {
+  font-size           : 16.0px;
+  letter-spacing      : -0.17px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-khanacademyimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 302px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-khanacademy .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-inspirationsection .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2561px;
+  height              : 2275px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1565px;
+  height              : 710px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-toolssectiontext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.14px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-toolssectiontext .bp1-span1 {
+  
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-toolssectiontext .bp1-span2 {
+  letter-spacing      : -0.14px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-tool3image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : 93px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-tool2image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 101px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-tool1image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 101px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity3 .bp1-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 825px;
+  height              : 711px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 709px;
+  height              : 2px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-infopresentationcontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-infopresentationgif {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 300px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-infopresentationgif video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-infopresentationgif video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity2 .bp1-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 749px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 748px;
+  height              : 1px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : 73px;
+  width               : 309px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-proposedpipeline1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer .bp1-educate {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer1 .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-offer1 .bp1-offer2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-arrow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-learn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-learn .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-proposedpipeline .bp1-learn .bp1-learn1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 73px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-currentpipeline1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-offer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-offer .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-offer .bp1-offer1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-learn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-learn .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-currentpipeline .bp1-learn .bp1-learn1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 73, 73, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.16px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-opportunity1 .bp1-sectiontitle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-designopportunitiessection .bp1-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1088px;
+  height              : 1423px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-uxresearchstatement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1273px;
+  height              : 150px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-uxresearchstatement .bp1-statement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-uxresearchstatement .bp1-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 2px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-uxresearchstatement .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(50, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 16.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span1 {
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span3 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span4 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span5 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span6 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span7 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span8 {
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 18.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span9 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span10 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span11 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 24.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-bodytext .bp1-span12 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-goalcards {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 447px;
+  height              : 144px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-intro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 427px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-intro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-researchsection .bp1-intro .bp1-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 521px;
+  height              : 517px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-problemstatement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 367px;
+  height              : 150px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-problemstatement .bp1-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(50, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-problemstatement .bp1-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 2px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-problemstatement .bp1-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-intro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 347px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-intro .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-backgroundsection .bp1-intro .bp1-prudentialoffersva {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 20.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-projectintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 301px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-projectintro .bp1-projectbannerimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : 207px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-projectintro .bp1-projectdescription {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.21px;
+  line-height         : 27.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-projectintro .bp1-projecttitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.2px;
+  line-height         : 37.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-siteheader .bp1-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-siteheader .bp1-rajivlogo .bp1-background1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-siteheader .bp1-rajivlogo .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-siteheader .bp1-rajivlogo .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 30px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-reachoutcta .bp1-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 29px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-siteheadermobile .bp1-reachoutcta .bp1-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.19px;
+  line-height         : 15.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9998px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : -340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1000px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-links .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-links .bp1-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-links .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp1-prudentialdarkmodemobile .bp1-footermobile .bp1-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-prudentialdarkmode {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 12752px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(73, 73, 73, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-prudentialdarkmode .bp2-endingtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12473px;
+  height              : auto;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10606px;
+  height              : 1711px;
+  width               : 876px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 287px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 287px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 150px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro .bp2-sectioncontent .bp2-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 150px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro .bp2-sectioncontent .bp2-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityintro .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-highfidelitysection .bp2-highfidelityimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 346px;
+  height              : 1365px;
+  width               : 876px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6764px;
+  height              : 3842px;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 1789px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1787px;
+  height              : 2px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-proposedia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1393px;
+  height              : 345px;
+  width               : 615px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 719px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.25px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-originalia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 324px;
+  height              : 346px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-sectioncontent .bp2-span1 {
+  
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-sectioncontent .bp2-span2 {
+  
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-infoarchitecture .bp2-sectionheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1906px;
+  height              : 1936px;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping .bp2-bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1720px;
+  height              : auto;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.25px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping .bp2-bodytext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1546px;
+  height              : auto;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.25px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping .bp2-paperprototypeimages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 253px;
+  height              : 1263px;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping .bp2-bodytext2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.25px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-paperprototyping .bp2-sectiontitle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.27px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-ideationsection .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5493px;
+  height              : 1171px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-headspace {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 669px;
+  height              : 502px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-headspace .bp2-headspacetext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-headspace .bp2-headspaceimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 446px;
+  width               : 252px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-headspace .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 619px;
+  height              : 1px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 502px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 20.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext .bp2-span1 {
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext .bp2-span2 {
+  letter-spacing      : -0.17px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext .bp2-span3 {
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  letter-spacing      : -0.17px;
+  line-height         : 23.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext .bp2-span4 {
+  letter-spacing      : -0.17px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademytext .bp2-span5 {
+  letter-spacing      : -0.17px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-khanacademyimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 446px;
+  width               : 252px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-khanacademy .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-inspirationsection .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2967px;
+  height              : 2426px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1511px;
+  height              : 915px;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-toolssectiontext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 506px;
+  height              : auto;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-toolssectiontext .bp2-span1 {
+  
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-toolssectiontext .bp2-span2 {
+  letter-spacing      : -0.17px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-tool3image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : 187px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-tool2image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 204px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-tool1image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 204px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity3 .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 909px;
+  height              : 552px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 551px;
+  height              : 1px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-infopresentationcontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-infopresentationgif {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 444px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-infopresentationgif video {
+  object-fit          : cover;
+  width               : 100%;
+  height              : 100%;
+}
+/* IE doesn't support cover  */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-infopresentationgif video {
+    min-width           : 100%;
+    min-height          : 100%;
+    position            : absolute;
+    margin              : auto;
+    top                 : -9999px;
+    bottom              : -9999px;
+    left                : -9999px;
+    right               : -9999px;
+  }
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity2 .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 773px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-divider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 771px;
+  height              : 2px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-pipelineending {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 338px;
+  height              : 384px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-pipelineending .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-proposedpipeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 205px;
+  height              : 103px;
+  width               : 600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-currentpipeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 103px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-opportunity1 .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-designopportunitiesintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-designopportunitiessection .bp2-designopportunitiesintro .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1489px;
+  height              : 1378px;
+  width               : 625px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-goalcards {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 485px;
+  height              : 157px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 455px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 455px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 318px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro .bp2-sectioncontent .bp2-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro .bp2-sectioncontent .bp2-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchintro .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 692px;
+  height              : 529px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 20.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span1 {
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span2 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span3 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span4 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span5 {
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  line-height         : 23.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span6 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-researchendingtext .bp2-sectioncontent .bp2-span7 {
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-problemstatement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1245px;
+  height              : 133px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-problemstatement .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(50, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-problemstatement .bp2-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 1px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-researchsection .bp2-problemstatement .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 943px;
+  height              : 546px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-problemstatement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 413px;
+  height              : 133px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-problemstatement .bp2-title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(50, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-problemstatement .bp2-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 1px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-problemstatement .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.22px;
+  line-height         : 27.0px;
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 383px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background .bp2-background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 383px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background .bp2-sectioncontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 246px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background .bp2-sectioncontent .bp2-background2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 246px;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background .bp2-sectioncontent .bp2-sectioncontent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 624px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 24.0px;
+}
+.bp2-prudentialdarkmode .bp2-backgroundsection .bp2-background .bp2-sectiontitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.3px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-projectheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : 692px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-projectheader .bp2-bannerimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 549px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-projectheader .bp2-projectdescription {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.24px;
+  line-height         : 37.0px;
+}
+.bp2-prudentialdarkmode .bp2-projectheader .bp2-projecttitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 38.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.24px;
+  line-height         : 46.0px;
+}
+.bp2-prudentialdarkmode .bp2-siteheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 64px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-siteheader .bp2-reachoutcta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-prudentialdarkmode .bp2-siteheader .bp2-reachoutcta:hover {
+  transform           : translate(5px, 0);
+}
+.bp2-prudentialdarkmode .bp2-siteheader .bp2-reachoutcta .bp2-rectangle {
+  background-color    : rgba(215, 215, 215, 0.4);
+  top                 : 0px;
+  height              : 45px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-siteheader .bp2-reachoutcta .bp2-emaillink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.16px;
+  line-height         : 20.0px;
+}
+.bp2-prudentialdarkmode .bp2-siteheader .bp2-rajivlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12620px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1668px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 132px;
+  width               : 4359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-links {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 22px;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2053px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-links .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-links .bp2-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-links .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.18px;
+  line-height         : 22.0px;
+}
+.bp2-prudentialdarkmode .bp2-footer .bp2-wheretofindme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2095px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ProximaNova-Bold", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.18px;
+  line-height         : 27.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 1023px) {
+  .bp1-prudentialdarkmodemobile {
+    display             : block;
+  }
+  .bp2-prudentialdarkmode {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .bp1-prudentialdarkmodemobile {
+    display             : none;
+  }
+  .bp2-prudentialdarkmode {
+    display             : block;
+  }
+}
